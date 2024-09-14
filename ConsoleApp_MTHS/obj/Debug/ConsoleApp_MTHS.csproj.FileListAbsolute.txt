@@ -1,0 +1,7 @@
+C:\Users\Lab\source\repos\ConsoleApp_MTHS\ConsoleApp_MTHS\bin\Debug\ConsoleApp_MTHS.exe.config
+C:\Users\Lab\source\repos\ConsoleApp_MTHS\ConsoleApp_MTHS\bin\Debug\ConsoleApp_MTHS.exe
+C:\Users\Lab\source\repos\ConsoleApp_MTHS\ConsoleApp_MTHS\bin\Debug\ConsoleApp_MTHS.pdb
+C:\Users\Lab\source\repos\ConsoleApp_MTHS\ConsoleApp_MTHS\obj\Debug\ConsoleApp_MTHS.csproj.AssemblyReference.cache
+C:\Users\Lab\source\repos\ConsoleApp_MTHS\ConsoleApp_MTHS\obj\Debug\ConsoleApp_MTHS.csproj.CoreCompileInputs.cache
+C:\Users\Lab\source\repos\ConsoleApp_MTHS\ConsoleApp_MTHS\obj\Debug\ConsoleApp_MTHS.exe
+C:\Users\Lab\source\repos\ConsoleApp_MTHS\ConsoleApp_MTHS\obj\Debug\ConsoleApp_MTHS.pdb
