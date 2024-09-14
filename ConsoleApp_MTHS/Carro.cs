@@ -22,7 +22,7 @@ namespace ConsoleApp_MTHS
 
         public void Trilha()
         {
-            Console.WriteLine("Olá, sou " + nome + " e sou um carro de trilha");
+            Console.WriteLine("Olá, sou " + nome + " e sou um carro de trilha!");
         }
 
     }

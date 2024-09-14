@@ -10,15 +10,12 @@ namespace ConsoleApp_MTHS
     {
         static void Main(string[] args)
         {
-            Carro mercedes = new Carro();
-            mercedes.nome = "SLK";
-
+            Carro mercedes = new Carro("SLK");
             mercedes.Acelerar();
 
-            Carro Jeep = new Carro();
-            Jeep.nome = "Renage";
-
+            Carro Jeep = new Carro("Renage");
             Jeep.Trilha();
+
             Console.ReadKey();
         }
     }
