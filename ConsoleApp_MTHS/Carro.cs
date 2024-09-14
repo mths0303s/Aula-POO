@@ -8,7 +8,12 @@ namespace ConsoleApp_MTHS
 {
     internal class Carro
     {
-        public string nome;
+        private string nome;
+
+        public Carro(string nomeDoCarro)
+        {
+            nome = nomeDoCarro;
+        }
 
         public void Acelerar()
         {
