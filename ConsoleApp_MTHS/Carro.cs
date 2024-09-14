@@ -15,9 +15,10 @@ namespace ConsoleApp_MTHS
             nome = nomeDoCarro;
         }
 
-        public void Acelerar()
+        public void Acelerar(ref string mensagem)
         {
-            Console.WriteLine("Olá, sou " + nome + " e estou acelerando!");
+            mensagem = "Mensagem dentro do método";
+            Console.WriteLine(mensagem);
         }
 
         public void Trilha()

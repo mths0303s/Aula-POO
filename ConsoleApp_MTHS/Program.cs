@@ -10,11 +10,18 @@ namespace ConsoleApp_MTHS
     {
         static void Main(string[] args)
         {
+            string mensagem = "Mensagem Teste";
             Carro mercedes = new Carro("SLK");
-            mercedes.Acelerar();
+            mercedes.Acelerar(ref mensagem);
+
+            Console.WriteLine(mensagem);
 
             Carro Jeep = new Carro("Renage");
             Jeep.Trilha();
+
+            string message = "None";
+            Livro SenhorDosAnéis = new Livro("Senhor dos anéis", "Matheus Araújo");
+            SenhorDosAnéis.Abrir(message: ref message);
 
             Console.ReadKey();
         }
