@@ -19,7 +19,7 @@ namespace ConsoleApp_MTHS
             Carro Jeep = new Carro("Renage");
             Jeep.Trilha();
 
-            string message = "None";
+            string message = "Void";
             Livro SenhorDosAnéis = new Livro("Senhor dos anéis", "Matheus Araújo");
             SenhorDosAnéis.Abrir(message: ref message);
 

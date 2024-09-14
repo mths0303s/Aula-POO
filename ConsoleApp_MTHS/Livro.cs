@@ -21,7 +21,7 @@ namespace ConsoleApp_MTHS
 
         public void Abrir(ref string message)
         {
-            message = ("O livro " + nome_livro + " do proprietário " + nome_proprietário + " foi aberto!");
+            message = ("O livro " + nome_livro + " do proprietário " + nome_proprietário + " foi aberto com exito!");
             Console.WriteLine(message);
         }
 
