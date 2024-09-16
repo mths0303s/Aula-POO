@@ -20,8 +20,9 @@ namespace ConsoleApp_MTHS
             Jeep.Trilha();
 
             string message = "Void";
-            Livro SenhorDosAnéis = new Livro("Senhor dos anéis", "Matheus Araújo");
+            Livro SenhorDosAnéis = new Livro("Senhor dos anéis", 1527, "John Ronald Reuel Tolkien", "Matheus Araújo");
             SenhorDosAnéis.Abrir(message: ref message);
+            SenhorDosAnéis.Descrição(message: ref message);
 
             Console.ReadKey();
         }
